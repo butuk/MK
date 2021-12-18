@@ -87,3 +87,5 @@ $randomButton.addEventListener('click', function () {
     changeHP(player1);
     changeHP(player2);
 })
+
+alert('test');
